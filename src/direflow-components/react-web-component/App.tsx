@@ -40,7 +40,7 @@ const App: FC<IProps> = (props) => {
 };
 
 App.defaultProps = {
-  componentTitle: 'React Web Component',
+  componentTitle: 'React Web Component Master',
   sampleList: [
     'Create with React',
     'Build as Web Component',
